@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estoy estudiando en Tecnologico Ensenada<br><br>Lenguajes dominados<br>-HTML<br>-Java<br>-CSS<br>-ANTLR4<br>-REactJS
+Estoy estudiando en Tecnologico Ensenada<br><br>Lenguajes dominados<br>-HTML<br>-Java<br>-CSS<br>-ANTLR4<br>-ReactJS
 
 
 ## 🌐 Socials:
